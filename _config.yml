@@ -1,0 +1,28 @@
+name: 'Samudra Skin & Sea'
+favicon: null
+layout_spectrum: 0.9982207464054227
+typography_spectrum: 0.004176738206297159
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.38128895265981555
+  lightness: 0.5989277511835098
+  saturation: 0.6817114541772753
+  rhythmicContrast: 0.24569921172223985
+purpose: []
